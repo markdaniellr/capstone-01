@@ -133,17 +133,6 @@ Basic deployment steps:
 8. Save and wait for GitHub Pages to publish the website.
 9. Add the live website URL to this README.
 
-## Before Final Submission
-
-Replace the following placeholders:
-
-- `YOUR-USERNAME` with your actual GitHub username
-- Placeholder GitHub repository links with your real repository URLs
-- Placeholder LinkedIn link with your actual LinkedIn profile
-- `profile-placeholder.svg` with your real profile photo when ready
-- Future Project cards with completed projects
-- Live Demo placeholder with your deployed GitHub Pages link
-- Add a desktop or mobile screenshot of the homepage
 
 ## Author
 
